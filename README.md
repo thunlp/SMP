@@ -68,7 +68,7 @@ python3 run_glue_prune.py \
 
 ## Pruner Checkpoints
 
-The pruner checkpoint used in the experiments is available at `checkpoints`.
+The pruner checkpoint used in the experiments is available at `checkpoints`. `base.bin` is trained on BERT-Base and `large.bin` is trained on BERT-Large.
 
 ## Cite
 
